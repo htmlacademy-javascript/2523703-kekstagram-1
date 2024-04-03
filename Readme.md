@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/javascript-individual/1/user/2523703).
-* Наставник: `Неизвестно`.
+* Студент: [Mehrob ](https://up.htmlacademy.ru/javascript-individual/1/user/2523703).
+* Наставник: `Николай  Колганов`.
 
 ---
 
@@ -11,7 +11,7 @@ _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.jso
 ---
 
 [Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
-
+  
 ### Памятка
 
 #### 1. Зарегистрируйтесь на Гитхабе
